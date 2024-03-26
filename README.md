@@ -1,5 +1,6 @@
 # Leandro do Nascimento Souza
 ### :books: Graduando em Engenharia de Software - FIAP
+<hr>
 
 ## :iphone: Social Media e Repositórios 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-souza-326722181/)
