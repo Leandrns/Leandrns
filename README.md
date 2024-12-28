@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Leandrns&show_icons=true&title_color=60d4ea&text_color=9ae5f3&icon_color=60d4ea&bg_color=19191a&cache_seconds=2300" alt="status do github">
 
 ### Frameworks
 ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,4 +28,5 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Leandrns&show_icons=true&title_color=60d4ea&text_color=9ae5f3&icon_color=60d4ea&bg_color=19191a&cache_seconds=2300" alt="status do github">
 
