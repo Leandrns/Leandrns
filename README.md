@@ -21,6 +21,8 @@ Aqui eu apresento todo tipo de projeto que venho desenvolvendo durante minha tra
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,html,css,sass,python,java,spring,postgres,ts,cpp,git,docker,figma,postman&perline=6)](https://skillicons.dev)
 
+<br>
+
 [![Leandrns](https://github-readme-stats.vercel.app/api?username=Leandrns&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrns&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
